@@ -21,5 +21,10 @@ namespace Tyuiu.HodakovaNA.Sprint7.V14
         {
             this.Close();
         }
+
+        private void Text001_HNA_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
