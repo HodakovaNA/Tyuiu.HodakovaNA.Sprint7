@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sprint7.V14", "Sprint7.V14", "{3F17F728-FC39-430D-8928-194A350A2C47}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project.V14", "Project.V14", "{3F17F728-FC39-430D-8928-194A350A2C47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sprint7.V14", "Tyuiu.HodakovaNA.Sprint7.V14\Tyuiu.HodakovaNA.Sprint7.V14.csproj", "{8CDEAEEE-A82A-4EB1-824F-C03C033C0FAF}"
 EndProject

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint7\Tyuiu.HodakovaNA.Sprint7.V14.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint7.V14.Lib.csproj.AssemblyReference.cache
